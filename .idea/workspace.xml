@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec6aa68-5359-425a-9d52-3f1cb9376f81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="cec6aa68-5359-425a-9d52-3f1cb9376f81" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +43,16 @@
       <option name="presentableId" value="Default" />
       <updated>1607792044080</updated>
       <workItem from="1607792050192" duration="1282000" />
-      <workItem from="1608037653873" duration="1903000" />
+      <workItem from="1608037653873" duration="2211000" />
     </task>
+    <task id="LOCAL-00001" summary="les dates: exo 89">
+      <created>1608039868946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608039868946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +69,19 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="les dates: exo 89" />
+    <option name="LAST_COMMIT_MESSAGE" value="les dates: exo 89" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="0" key="CommitChangelistDialog2" timestamp="1608039866525">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="421" y="0" key="CommitChangelistDialog2/0.0.1600.860/-165.-1080.1920.1040@0.0.1600.860" timestamp="1608039866525" />
+    <state x="392" y="149" key="Vcs.Push.Dialog.v2" timestamp="1608039872957">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="149" key="Vcs.Push.Dialog.v2/0.0.1600.860/-165.-1080.1920.1040@0.0.1600.860" timestamp="1608039872957" />
   </component>
 </project>
