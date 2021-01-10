@@ -1,7 +1,7 @@
 // la date d'aujourd'hui
 let todayDate = document.getElementById('timestamp');
 let date1 = Date ();
-todayDate.innerHTML = ("la date d'aujourd'hui est :" + date1);
+todayDate.innerHTML = "la date d'aujourd'hui est :" + date1;
 
 //la date avec local date
 let date2 = document.getElementById("localDate");
